@@ -1,4 +1,4 @@
-package com.nqlz.hellorabbit;
+package com.nqlz.hellorabbit.test;
 
 import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

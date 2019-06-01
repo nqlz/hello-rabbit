@@ -1,4 +1,4 @@
-package com.nqlz.hellorabbit;
+package com.nqlz.hellorabbit.test;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

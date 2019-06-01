@@ -1,5 +1,6 @@
 package com.nqlz.hellorabbit;
 
+import com.nqlz.hellorabbit.test.RabbitProvider;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
